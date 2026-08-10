@@ -6,7 +6,7 @@ The project demonstrates the practical application of HTML5 and CSS3 concepts to
 ## 🔗 Live Website
 
 **Portfolio:**
-lovelynaj.github.io/Surayya_Issah/
+https://lovelynaj.github.io/Surayya_Issah/
 
 ## 📖 Project Overview
 
